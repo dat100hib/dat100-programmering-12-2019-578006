@@ -23,7 +23,7 @@ public class Bilde extends Tekst {
 		this.tekst = tekst;
 		this.url = url;
 	}
-
+//kommentar
 	
 	public String getUrl() {
 		return this.url;
